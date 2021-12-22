@@ -1,0 +1,10 @@
+E:\C# Final Assignment\StudentApplication\bin\Debug\StudentApplication.exe.config
+E:\C# Final Assignment\StudentApplication\bin\Debug\StudentApplication.exe
+E:\C# Final Assignment\StudentApplication\bin\Debug\StudentApplication.pdb
+E:\C# Final Assignment\StudentApplication\bin\Debug\Newtonsoft.Json.dll
+E:\C# Final Assignment\StudentApplication\bin\Debug\Newtonsoft.Json.xml
+E:\C# Final Assignment\StudentApplication\obj\Debug\StudentApplication.csproj.AssemblyReference.cache
+E:\C# Final Assignment\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+E:\C# Final Assignment\StudentApplication\obj\Debug\StudentApplication.csproj.CopyComplete
+E:\C# Final Assignment\StudentApplication\obj\Debug\StudentApplication.exe
+E:\C# Final Assignment\StudentApplication\obj\Debug\StudentApplication.pdb
